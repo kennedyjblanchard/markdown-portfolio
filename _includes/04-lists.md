@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. My dog
+2. My books
+3. The story I am writing
+4. Working
+5. Art
